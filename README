@@ -1,1 +1,18 @@
-README
+To download, open and run the project:
+ 
+1. Go to https://github.com/perk06/testRandstad
+2. Download the zip file 
+3. Unzip the folder
+4. Open an IDE (E.g. Eclipse)
+5. Go to menu File and click at Open Projects from File Systems.
+6. When a window has opened. click the Directory button.
+7. Find the unzipped testRandstad folder (which is probably in the Download folder).
+8. Select testRandstad folder and click Finish button.
+9. In the Project Explorer, expand folders to find /src/testRandstad/RunTest.java
+10. Run the test file.
+11. After running two test cases, JUnit window will show the result as Run: 2/2
+12. Also, open /src/testRandstad/result.txt for further test and traceability analysis.
+
+
+
+
