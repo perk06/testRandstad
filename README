@@ -11,7 +11,7 @@ To download, open and run the project:
 9. In the Project Explorer, expand folders to find /src/testRandstad/RunTest.java
 10. Run the test file.
 11. After running two test cases, JUnit window will show the result as Run: 2/2
-12. Also, open /src/testRandstad/result.txt for further test and traceability analysis.
+12. Also, open testRandstad/result.txt for further test and traceability analysis.
 
 
 
