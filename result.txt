@@ -1,11 +1,11 @@
-Scenario 001;TC001_viewHomepage;GIVEN access to randstad.com.au website;;1970-01-01 07:30:00Z
-Scenario 001;TC001_viewHomepage;WHEN I scroll down the page;;1970-01-01 07:30:00Z
-Scenario 001;TC001_viewHomepage;THEN I should be able to see the text ‘join our te;PASSED;1970-01-01 07:30:00Z
-Scenario 001;TC001_viewHomepage;WHEN I click on the ‘apply with us’ button;;1970-01-01 07:30:00Z
-Scenario 001;TC001_viewHomepage;THEN I should be able to see the text 'search our ;PASSED;1970-01-01 07:30:00Z
-Scenario 002;TC002_searchJobs;GIVEN completion of Scenario 1;;1970-01-01 07:30:00Z
-Scenario 002;TC002_searchJobs;GIVEN completion of Scenario 1;;1970-01-01 07:30:00Z
-Scenario 002;TC002_searchJobs;AND webpage is unchanged;;1970-01-01 07:30:00Z
-Scenario 002;TC002_searchJobs;WHEN I enter 'consultant' as job title in the 'wha;;1970-01-01 07:30:00Z
-Scenario 002;TC002_searchJobs;AND click on ‘search jobs;;1970-01-01 07:30:00Z
-Scenario 002;TC002_searchJobs;THEN I should be able to see all search results re;PASSED;1970-01-01 07:30:00Z
+Scenario 001;TC001_viewHomepage;GIVEN access to randstad.com.au website;;2020-02-05 05:28:28
+Scenario 001;TC001_viewHomepage;WHEN I scroll down the page;;2020-02-05 05:28:28
+Scenario 001;TC001_viewHomepage;THEN I should be able to see the text ‘join our te;PASSED;2020-02-05 05:28:29
+Scenario 001;TC001_viewHomepage;WHEN I click on the ‘apply with us’ button;;2020-02-05 05:28:42
+Scenario 001;TC001_viewHomepage;THEN I should be able to see the text 'search our ;PASSED;2020-02-05 05:28:42
+Scenario 002;TC002_searchJobs;GIVEN completion of Scenario 1;;2020-02-05 05:28:48
+Scenario 002;TC002_searchJobs;GIVEN completion of Scenario 1;;2020-02-05 05:28:48
+Scenario 002;TC002_searchJobs;AND webpage is unchanged;;2020-02-05 05:28:48
+Scenario 002;TC002_searchJobs;WHEN I enter 'consultant' as job title in the 'wha;;2020-02-05 05:28:49
+Scenario 002;TC002_searchJobs;AND click on ‘search jobs;;2020-02-05 05:28:57
+Scenario 002;TC002_searchJobs;THEN I should be able to see all search results re;PASSED;2020-02-05 05:28:57
